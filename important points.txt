@@ -1,0 +1,17 @@
+chai kay sat react notes
+
+//*********create react app 
+
+say jo hm project bana tay hn is kafi extra package bi ahja tay hn jis ki starting may need nh huti tu ab is waqt create react app cmd bulky h .
+
+//*************** $ npm create vite@latest
+
+ya Vite ak library h jo is create react app ko parallel used ki jati h jis say project bulky bi nah banay or frequnetly bi ban jai
+bus is may kuch step huta hn project bana kay liya us ko follow karta hn jis say project ban jai 
+step1 write a name of project 
+step2 write a package name 
+step3 select a framework 
+step4 select a variant
+
+
+
