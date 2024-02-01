@@ -3,7 +3,7 @@
 function App() {
 
   return (
-    <h2>chai aur reactwithvite</h2>
+    <h2 className="text-center">chaiiii aur reactwithvite</h2>
   )
 }
 
