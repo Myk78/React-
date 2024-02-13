@@ -46,8 +46,6 @@ function App() {
         placeholder='password'
         readOnly
         ref={Passwordref}/>
-        {/* <button onClick={passwordCopyClipboard} className='outline-none bg-blue-600 text-white px-3 py-0.5 shrink-0'> Copy
-        </button> */}
         <button onClick={passwordCopyClipboard}  class="rounded bg-amber-500  text-white px-3 py-0.5 shrink-0  text-sm shadow-sm">Copy</button>
         <span class="absolute top-10 scale-0 rounded bg-gray-800 p-2 text-xs text-white group-hover:scale-100">✨ try your luck!</span>
         
